@@ -1,3 +1,4 @@
 1. chat
 2. file sharing
-3. profile
+3. account
+4. notification
