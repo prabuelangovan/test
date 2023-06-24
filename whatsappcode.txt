@@ -2,3 +2,4 @@
 2. file sharing
 3. account
 4. notification
+5. voice call
