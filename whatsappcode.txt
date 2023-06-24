@@ -4,3 +4,4 @@
 4. notification
 5. call
 6. status
+7. Location sharing
