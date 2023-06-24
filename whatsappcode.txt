@@ -4,3 +4,5 @@
 4. notification
 5. call
 6. status
+7. emoji
+8. upi
