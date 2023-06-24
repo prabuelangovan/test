@@ -4,5 +4,7 @@
 4. notification
 5. call
 6. status
-7. emoji
-8. upi
+7. Location sharing
+8. emoji
+9. upi
+
